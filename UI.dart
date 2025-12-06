@@ -1675,3 +1675,4 @@ Widget _buildRiskAnalysisView(Color stateColor) {
     );
   }
 }
+
